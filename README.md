@@ -1,4 +1,4 @@
-# SpoofMyDevice Devices
+# Devices Info
 
 Community-maintained device preset files for `SpoofMyDevice`.
 
